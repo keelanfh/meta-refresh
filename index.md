@@ -1,13 +1,13 @@
 ---
-title: Different types of refreshes
+title: Different types of redirects
 ---
 
-# Different types of refreshes
+# Different types of redirects
 
-There are a few different kind of refreshes. Try them all out here! All three redirect to essex.gov.uk.
+There are a few different kind of redirects. Try them all out here! All three redirect to essex.gov.uk.
 
-[Try a meta refresh](/meta-refresh.html)
+[Try a meta refresh redirect](/meta-refresh.html)
 
-[Try a JavaScript refresh](/javascript-refresh.html)
+[Try a JavaScript redirect](/javascript-refresh.html)
 
-[Try a 301 refresh](http://301.kfh.me/)
+[Try a 301 redirect](http://301.kfh.me/)
