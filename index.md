@@ -2,6 +2,8 @@
 title: Different types of refreshes
 ---
 
+# Different types of refreshes
+
 There are a few different kind of refreshes. Try them all out here! All three redirect to essex.gov.uk.
 
 [Try a meta refresh](/meta-refresh.html)
