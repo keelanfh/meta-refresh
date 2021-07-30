@@ -10,4 +10,4 @@ There are a few different kind of redirects. Try them all out here! All three re
 
 [Try a JavaScript redirect](/javascript-refresh.html)
 
-[Try a 301 redirect](http://essex.gov.uk/)
+[Try a 301 redirect](https://essex.gov.uk/)
